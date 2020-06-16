@@ -42,6 +42,7 @@ sudo apt-get install -y qtbase5-examples
 sudo apt-get install -y curl
 sudo apt-get install -y texlive-full
 sudo apt-get install -y texmaker
+sudo apt-get install -y ffmpeg
 
 git clone https://github.com/opencv/opencv.git
 git clone https://github.com/opencv/opencv_contrib.git
