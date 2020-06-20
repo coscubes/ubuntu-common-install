@@ -45,6 +45,7 @@ sudo apt-get install -y texmaker
 sudo apt-get install -y ffmpeg
 sudo apt-get install -y openconnect network-manager-openconnect-gnome
 sudo apt-get install -y emacs
+sudo apt-get install -y okular
 
 git clone https://github.com/opencv/opencv.git
 git clone https://github.com/opencv/opencv_contrib.git
