@@ -46,6 +46,7 @@ sudo apt-get install -y ffmpeg
 sudo apt-get install -y openconnect network-manager-openconnect-gnome
 sudo apt-get install -y emacs
 sudo apt-get install -y okular
+sudo apt-get install -y fonts-cmu # Some awesome fonts
 
 git clone https://github.com/opencv/opencv.git
 git clone https://github.com/opencv/opencv_contrib.git
